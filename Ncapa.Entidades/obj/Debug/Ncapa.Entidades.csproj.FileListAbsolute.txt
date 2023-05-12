@@ -1,0 +1,5 @@
+D:\VisualEstudio\ApFacultad\Ncapa.Entidades\bin\Debug\Ncapa.Entidades.dll
+D:\VisualEstudio\ApFacultad\Ncapa.Entidades\bin\Debug\Ncapa.Entidades.pdb
+D:\VisualEstudio\ApFacultad\Ncapa.Entidades\obj\Debug\Ncapa.Entidades.dll
+D:\VisualEstudio\ApFacultad\Ncapa.Entidades\obj\Debug\Ncapa.Entidades.pdb
+D:\VisualEstudio\ApFacultad\Ncapa.Entidades\obj\Debug\Ncapa.Entidades.csprojResolveAssemblyReference.cache
